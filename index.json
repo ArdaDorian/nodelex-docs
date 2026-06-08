@@ -1,0 +1,55 @@
+{
+  "docs": [
+    {
+      "slug": "web-editor",
+      "title": "Web Editor",
+      "description": "Browser-based dialogue tree editor — no installation required",
+      "langs": [
+        {
+          "lang": "en",
+          "label": "English",
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/web-editor-en.md"
+        },
+        {
+          "lang": "tr",
+          "label": "Türkçe",
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/web-editor-tr.md"
+        }
+      ]
+    },
+    {
+      "slug": "desktop-app",
+      "title": "Desktop App",
+      "description": "Full-featured desktop application with AI and Unity export",
+      "langs": [
+        {
+          "lang": "en",
+          "label": "English",
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/desktop-app-en.md"
+        },
+        {
+          "lang": "tr",
+          "label": "Türkçe",
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/desktop-app-tr.md"
+        }
+      ]
+    },
+    {
+      "slug": "unity-package",
+      "title": "Unity Package",
+      "description": "Import and run Nodelex dialogue trees in Unity",
+      "langs": [
+        {
+          "lang": "en",
+          "label": "English",
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/unity-package-en.md"
+        },
+        {
+          "lang": "tr",
+          "label": "Türkçe",
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/unity-package-tr.md"
+        }
+      ]
+    }
+  ]
+}
