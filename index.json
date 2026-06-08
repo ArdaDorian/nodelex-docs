@@ -8,12 +8,12 @@
         {
           "lang": "en",
           "label": "English",
-          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/web-editor-en.md"
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/refs/heads/main/web-editor-en.md"
         },
         {
           "lang": "tr",
           "label": "Türkçe",
-          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/web-editor-tr.md"
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/refs/heads/main/web-editor-tr.md"
         }
       ]
     },
@@ -25,12 +25,12 @@
         {
           "lang": "en",
           "label": "English",
-          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/desktop-app-en.md"
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/refs/heads/main/desktop-app-en.md"
         },
         {
           "lang": "tr",
           "label": "Türkçe",
-          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/desktop-app-tr.md"
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/refs/heads/main/desktop-app-tr.md"
         }
       ]
     },
@@ -42,12 +42,12 @@
         {
           "lang": "en",
           "label": "English",
-          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/unity-package-en.md"
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/refs/heads/main/unity-package-en.md"
         },
         {
           "lang": "tr",
           "label": "Türkçe",
-          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/main/unity-package-tr.md"
+          "url": "https://raw.githubusercontent.com/ArdaDorian/nodelex-docs/refs/heads/main/unity-package-tr.md"
         }
       ]
     }
